@@ -1,5 +1,5 @@
 #include <iostream>
-#include "sortArray.h"
+#include "sortArray.cpp"
 
 using namespace std; 
 
